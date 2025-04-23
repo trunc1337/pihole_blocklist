@@ -1,0 +1,17 @@
+0.0.0.0 a-v2.sndcdn.com
+0.0.0.0 api-auth.soundcloud.com
+0.0.0.0 api-v2.soundcloud.com
+0.0.0.0 assets.web.soundcloud.cloud
+0.0.0.0 cf-hls-media.sndcdn.com
+0.0.0.0 cf-hls-opus-media.sndcdn.com 
+0.0.0.0 d15wdfb2rw9n2y.cloudfront.net
+0.0.0.0 d1hcxlifzhxzha.cloudfront.net
+0.0.0.0 d1ws1c3tu8ejje.cloudfront.net
+0.0.0.0 d2gff659so2qub.cloudfront.net
+0.0.0.0 d36lkcxq7qra7v.cloudfront.net
+0.0.0.0 dezyktpp25vy8.cloudfront.net
+0.0.0.0 dwt.soundcloud.com
+0.0.0.0 graph.soundcloud.com
+0.0.0.0 soundcloud.cloud
+0.0.0.0 soundcloud.com
+0.0.0.0 www.soundcloud.com
