@@ -52,3 +52,4 @@
 0.0.0.0 reporting.deliveryengine.adswizz.com
 0.0.0.0 www.adswizz.com
 0.0.0.0 xx0m-bb7z-1xmi.n7c.xano.io
+0.0.0.0 i1.sndcdn.com 
